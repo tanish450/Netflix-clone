@@ -1,4 +1,4 @@
-Project Link - https://netflix-home-clone.netlify.app/#
+Project Link - https://netflixclonedapp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
